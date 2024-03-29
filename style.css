@@ -1,13 +1,5 @@
 /* style.css */
 
-/* ページ全体のスタイル */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-}
-
 /* カテゴリのスタイル */
 .category {
     margin: 20px;
@@ -15,6 +7,7 @@ body {
     background-color: #ffffff;
     border: 1px solid #ddd;
     border-radius: 5px;
+    color: green; /* 文字色を緑色に変更 */
 }
 
 /* カテゴリタイトルのスタイル */
