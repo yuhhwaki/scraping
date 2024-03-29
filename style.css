@@ -1,0 +1,37 @@
+/* style.css */
+
+/* ページ全体のスタイル */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* カテゴリのスタイル */
+.category {
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* カテゴリタイトルのスタイル */
+.category-title {
+    font-size: 24px;
+    color: #333;
+}
+
+/* アイテムのスタイル */
+.items {
+    list-style-type: decimal;
+    margin-left: 20px;
+    padding-left: 0;
+}
+
+.item {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+}
